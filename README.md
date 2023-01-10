@@ -1,0 +1,2 @@
+# latihanbaru
+Contoh latihan kolaborasi
